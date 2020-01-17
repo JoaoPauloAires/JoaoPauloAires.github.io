@@ -5,17 +5,18 @@ title: "Home"
 
 <br>
 
-Hello, my name is **Juarez Monteiro**, I am currently a PhD student in Computer Science at Pontifical Catholic University of Rio Grande do Sul (PUCRS), Brazil, under the supervision of [Prof. Dr. Rodrigo C. Barros](http://lattes.cnpq.br/8172124241767828).
-I am also member of the Research Group on Business Intelligence (GPIN) here at PUCRS.
-In 2018 I finished my Master in Computer Science at PUCRS, also under the supervision of [Prof. Dr. Rodrigo C. Barros](http://lattes.cnpq.br/8172124241767828).
-I finished my graduation in System Analysis and Development at Federal Institute of Rio Grande do Sul (IFRS), Brazil, Canoas/RS, under the supervision of [Prof. Dr. Rafael C. Pinto](http://lattes.cnpq.br/1024108762297830).
-In 2011 I finished my Technician course in Precision Mechanics at Technological Center in Precision Mechanics (CETEMP) - São Leopoldo/RS.
+Hello, my name is **João Paulo Aires**, I am a PhD in Computer Science by the Pontifical Catholic University of Rio Grande do Sul (PUCRS), Brazil.
+In 2019, I finished my PhD in Computer Science at PUCRS under the supervision of [Prof. Dr. Felipe Rech Meneguzzi](http://lattes.cnpq.br/5973550650941724).
+In 2015, I finished my Master in Computer Science at PUCRS, also under the supervision of Prof. Dr. Felipe Rech Meneguzzi.
+I finished my graduation in Computer Science at the Universidade Federal do Pampa (Unipampa), in Alegrete/RS, Brazil under the supervision of [Prof. Dr. Fábio Natanael Kepler](http://lattes.cnpq.br/2278269345182335).
 
-My main interests and the most part of my research is in the field of Artificial Intelligence, particularly in Machine Learning and Deep Learning applied in Computer Vision.
+My research interests are in the field of Artificial Intelligence with the emphasis on Natural Language Processing, Machine and Deep Learning.
+
 
 ## Quick Links:
 
-- [GitHub](https://github.com/jrzmnt)
-- [DBLP](http://dblp.uni-trier.de/pers/hd/m/Monteiro:Juarez)
-- [Google Scholar](https://scholar.google.com.br/citations?user=LVhKmIIAAAAJ&hl=pt-BR)
-- [Lattes](http://lattes.cnpq.br/6307746290114554)
+- [GitHub](https://github.com/joaopauloaires);
+- [DBLP](http://dblp.uni-trier.de/pers/hd/a/Aires:Jo=atilde=o_Paulo);
+- [Google Scholar](https://scholar.google.com.br/citations?user=7or-TpUAAAAJ&hl);
+- [Lattes](http://lattes.cnpq.br/5295008908444866).
+

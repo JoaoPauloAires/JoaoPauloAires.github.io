@@ -9,4 +9,4 @@ title: "Publications"
 
 ### Conference and Journal Papers
 
-<!--<script src="https://bibbase.org/show?bib=https%3A%2F%2Fjrzmnt.github.io%2Fpublications%2Fjuarez-publications.bib&jsonp=1"></script>-->
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FJoaoPauloAires%2FJoaoPauloAires.github.io%2Fmaster%2Fpublications%2Faires.bib&jsonp=1"></script>
